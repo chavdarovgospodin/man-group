@@ -27,3 +27,6 @@ Lack of Unique Identifiers (IDs): The data does not contain unique identifiers (
 
 npm install
 npm run dev
+
+http://localhost:5173/ - web
+http://localhost:5001 - server
